@@ -2,7 +2,7 @@
 
 **I'm Mohammed Al Sadi**
 
-Red Team focused cybersecurity student at SQU and OSCP+ holder | Ranked #3 in Oman on Hack The Box and #5 on TryHackMe | Multi-time national CTF winner | Founder of SQU-Sec Team
+Red Team focused cybersecurity student at SQU and OSCP+ holder | Ranked #2 in Oman on Hack The Box and #5 on TryHackMe | Multi-time national CTF winner | Founder of SQU-Sec Team
 
 ---
 
