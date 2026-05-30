@@ -1,17 +1,11 @@
 ## Hi there 👋
-
-**I'm Mohammed Al Sadi**
-
-Red Team focused cybersecurity student at SQU and OSCP+ holder | Ranked #2 in Oman on Hack The Box and #5 on TryHackMe | Multi-time national CTF winner | Founder of SQU-Sec Team
+**I'm Mohammed Al Sadi (Glitch)**
+Red Team Engineer at Insight Information Security | Offensive Security Researcher | OSCP+ | CS Graduate from Sultan Qaboos University
 
 ---
 
-💻 **I code in:** C/C++, Python, Go, Assembly, PHP, Bash, PowerShell, JavaScript, Java, Dart
-
-🔴 **I specialize in:** Active Directory exploitation | Command & Control operations | Web exploitation | AV/EDR evasion | Shellcode development
-
-🎯 **I'm currently working on:** Custom C2 frameworks, shellcode loaders, and offensive security research
-
+💻 **I code in:** C/C++, Python, Go, Assembly, Bash, PowerShell, PHP, JavaScript, Java, Dart
+🔴 **I specialize in:** Active Directory exploitation | C2 development | Web exploitation | AV/EDR evasion | Shellcode development
+🎯 **I'm currently working on:** SpectraC2 — a custom C2 framework featuring a C agent, Go TeamServer, and PyQt6 operator console
 🇴🇲 **I'm from Oman.**
-
 📫 **Reach me:** malsaadi2003@icloud.com | [LinkedIn](https://linkedin.com/in/mohammed-al-sadi)
